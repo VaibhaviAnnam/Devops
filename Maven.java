@@ -1,4 +1,5 @@
-public class Hello{
-    public static void main(String[] args){
-    System.out.println("Hello Welcome to maven Project")
-}}
+public class Maven {
+    public static void main(String[] args) {
+        System.out.println("Hello Welcome to maven Project!");
+    }
+}
